@@ -693,6 +693,11 @@ textarea:focus {
   padding-top: 18px;
 }
 
+.logo-area .logo img{
+  width: 90%;
+  height: 90%;
+}
+
 .logo-area .main-menu ul li {
   position: relative;
 }
